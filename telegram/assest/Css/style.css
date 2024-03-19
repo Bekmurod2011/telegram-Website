@@ -1,0 +1,113 @@
+.container-fluid {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+}
+
+body.active {
+    background: #000;
+}
+
+.left-page {
+    border-right: 1px solid #ececec;
+}
+
+.right-page .top {
+    background: #fff;
+    padding: 5px 10px;
+    align-items: center;
+}
+
+.right-page .top .d {
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+.right-page .top .dd span  {
+    top: 0;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.right-page .top h3 {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.right-page .bottom {
+    display: block;
+}
+
+.right-page .btn {
+    margin-top: 20px;
+    margin-left: 10px;
+    pointer-events: none;
+    display: block;
+    border: none !important;
+    text-align: start;
+}
+
+.right-page .btn span {
+    font-size: 13px;
+}
+
+.right-page .me {
+    margin-left: 100px;
+}
+
+.right-page .me button:nth-child(1) {
+    margin-left: 980px !important;
+}
+
+.right-page .me button:nth-child(2) {
+    margin-left: 960px !important;
+}
+
+.right-page .onam, .javascript, .english-2, .maktab, .dostlar, .english-1, .onam-2, .friends-group, .speaker-2 {
+    height: 100vh;
+    overflow: auto;
+}
+
+.mom.active {
+    background: #a0cfec;
+}
+
+.footbal.active {
+    background: #a0cfec;
+}
+
+.js.active {
+    background: #a0cfec;
+}
+
+.level-2.active {
+    background: #a0cfec;
+}
+
+.school.active {
+    background: #a0cfec;
+}
+
+.friends.active {
+    background: #a0cfec;
+}
+
+.eng.active {
+    background: #a0cfec;
+}
+
+.mom-2.active {
+    background: #a0cfec;
+}
+
+.friends-2.active {
+    background: #a0cfec;
+}
+
+.speaker.active {
+    background: #a0cfec;
+}
+
+.back {
+    pointer-events: auto;
+    cursor: pointer;
+}
